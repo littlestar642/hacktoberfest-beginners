@@ -22,3 +22,8 @@
  - Place: Gurgaon, India
  - Bio: Web Developer === true
  - GitHub: [worm4047](https://github.com/Worm4047/) 
+ 
+ #### Name: [Bennie van der Walt](https://github.com/bvdwalt)
+ - Place: Centurion, Gauteng, South Africa
+ - Bio: Enjoy learning new things
+ - GitHub: [bvdwalt](https://github.com/bvdwalt)
