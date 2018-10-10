@@ -7,11 +7,11 @@ Surat, India.
 Sri Chaitanya School Amalapuram
 
 ### Interests
-Learning New Technologies and Aiming to become a Full-stack DEVELOPER
+-Learning New Technologies and Aiming to become a Full-stack DEVELOPER
 
 ### DEVELOPMENT
-Loving studying JAVASCRIPT from YDKJS By KYLE SIMPSON
-Going through JAVASCRIPT30 By WesBos
+-Loving studying JAVASCRIPT from YDKJS By KYLE SIMPSON
+-Going through JAVASCRIPT30 By WesBos
 
 ### Projects
 [Survey-form](https://github.com/keshavgoyal2807/survey-form) ->Made this survey form outline as part of freecodecamp Projects.
