@@ -38,22 +38,22 @@ Choose one or all 5, make a pull request for your work and wait for it to be mer
 
 ## Getting Started
 
-* Fork this repository (Click the Fork button in the top right of this page)
-* Clone your fork down to your local machine
+1. Fork this repository (Click the Fork button in the top right of this page)
+2. Clone your fork down to your local machine
 `git clone https://github.com/your-username/hacktoberfest-beginners.git`
 
-* Create a branch
+3. Create a branch
 `git checkout -b branch-name`
-* Make your changes (choose from any task given)
-* Add all your changes to be tracked by git 
+4. Make your changes (choose from any task given)
+5. Add all your changes to be tracked by git 
 `git add .`
-* Commit your changes
+6. Commit your changes
 `git commit -m 'Initial Commit'`
-* push your changes
+7. push your changes
 `git push origin branch-name`
-* Create a new pull request from your forked repository (Click the New Pull Request button located at the top of your repo)
-* Wait for your PR review and merge approval!
-* Star this repository if you had fun!
+8. Create a new pull request from your forked repository (Click the New Pull Request button located at the top of your repo)
+9. Wait for your PR review and merge approval!
+10. Star this repository if you had fun!
 
 ## Prizes and Goodies
 
