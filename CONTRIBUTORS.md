@@ -6,19 +6,24 @@
 #### Name: [Swastik Haldar](https://github.com/basher666)
  - Place: Kharagpur, West Bengal, India
  - Bio: Foodie, Music addict, interested in Machine learning stuffs.
- - GitHub: [basher666](https://github.com/basher666) 
- 
+ - GitHub: [basher666](https://github.com/basher666)
+
  #### Name: [Kosmas Tsiakas](https://github.com/kosmastsk)
  - Place: Thessaloniki, Greece
  - Bio: Electrical & Computer Engineering Student
- - GitHub: [kosmastsk](https://github.com/kosmastsk) 
+ - GitHub: [kosmastsk](https://github.com/kosmastsk)
 
 #### Name: [Kartikey Singh](https://github.com/kartikey-singh)
  - Place: Varanasi, India
  - Bio: Web Developer, Programmer
- - GitHub: [kartikey-singh](https://github.com/kartikey-singh) 
- 
+ - GitHub: [kartikey-singh](https://github.com/kartikey-singh)
+
  #### Name: [Abhishek Chaudhary](https://github.com/Worm4047/)
  - Place: Gurgaon, India
  - Bio: Web Developer === true
- - GitHub: [worm4047](https://github.com/Worm4047/) 
+ - GitHub: [worm4047](https://github.com/Worm4047/)
+
+ #### Name: [Kunal Katariya](https://github.com/KunalKatariya)
+ - Place: Surat, India
+ - Bio: Machine learning Enthusiast
+ - GitHub: [KunalKatariya](https://github.com/KunalKatariya)
