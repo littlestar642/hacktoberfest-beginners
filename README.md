@@ -4,10 +4,11 @@ The repository solely aims to provide beginners a starting point to contribute t
 
 `Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!`
 
-Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting involved in the open source community by completing some simple tasks in this project.
+Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com) by getting involved in the open source community by completing some simple tasks in this project.This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
 
-This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
-**Important** Please make one PR per issue solved. You can create diffrenent branches from the root and can work on them simultaneously. This way you can get more PRs
+**Important**
+
+Please make one PR per issue. You can create different branches from the root and can work on them simultaneously. This way you can create more PRs.
 
 ## What is Hacktoberfest?
 
@@ -35,7 +36,6 @@ This project is mainly divided into five tasks that you need to do and will help
 
 Choose one or all 5, make a pull request for your work and wait for it to be merged!
 
-
 ## Getting Started
 
 1. Fork this repository (Click the Fork button in the top right of this page)
@@ -49,22 +49,20 @@ Choose one or all 5, make a pull request for your work and wait for it to be mer
 `git add .`
 6. Commit your changes
 `git commit -m 'Initial Commit'`
-7. push your changes
+7. Push your changes
 `git push origin branch-name`
 8. Create a new pull request from your forked repository (Click the New Pull Request button located at the top of your repo)
 9. Wait for your PR review and merge approval!
 10. Star this repository if you had fun!
 
+
 ## Prizes and Goodies
 
-Hacktoberfest comes with great prizes and goodies that you can show off to your friends and peers. Prizes includes :-
- * **Limited Edition Hacktoberfest T-Shirt**
- * Stickers for you laptops
-
-The best part of the entire festival is that all these prizes are completely **free** and you need to pay for the shipping too in most of the cases.
-
-Do visit this official [faq](https://hacktoberfest.digitalocean.com/faq)
-to clear all your doubts regarding hacktoberfest.
+Hacktoberfest comes with great prizes and goodies that you can show off to your friends and peers. Prizes include
+ * Limited Edition Hacktoberfest T-Shirt
+ * Stickers for your laptops
+ 
+For more details do read official [faq's](https://hacktoberfest.digitalocean.com/faq) to clear all your doubts regarding hacktoberfest.
 
 ## Choose from these Tasks :-
 
@@ -127,4 +125,4 @@ Name the file `hello_world_yourusername.xx`. e.g., `hello_world_alicewonderland.
 
 ## How do I track my progress?
 
-Log in with your GitHub account at [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/) to check your progress and stats.
+Log in with your GitHub account [here](https://hacktoberfest.digitalocean.com/sign_up/register) to check your progress and stats.
