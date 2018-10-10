@@ -22,3 +22,8 @@
  - Place: Gurgaon, India
  - Bio: Web Developer === true
  - GitHub: [worm4047](https://github.com/Worm4047/) 
+
+ #### Name: [Andre Scalco](https://github.com/andrescalco/)
+ - Place: Curitiba, Paraná, Brazil
+ - Bio: Front-End adn React Native Developer
+ - GitHub: [andrescalco](https://github.com/andrescalco/) 
