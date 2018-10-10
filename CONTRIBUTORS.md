@@ -1,4 +1,4 @@
-#### Name: [Avinash Jaiswal](https://github.com/littlestar642)
+#### Name: [Rishabh Kumar](https://github.com/rishabhkumar112)
  - Place: Surat, Gujarat, India
- - Bio: Traveller && Foodie && Web Developer === true
- - GitHub: [littlestar642](https://github.com/littlestar642) 
+ - Bio: Cricket, Web Development, Competitive Programming
+ - GitHub: [rishabhkumar112](https://github.com/rishabhkumar112) 
