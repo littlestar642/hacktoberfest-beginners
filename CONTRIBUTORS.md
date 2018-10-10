@@ -22,3 +22,8 @@
  - Place: Gurgaon, India
  - Bio: Web Developer === true
  - GitHub: [worm4047](https://github.com/Worm4047/) 
+
+#### Name: [Insiyah Hajoori](https://github.com/Insiyaa)
+ - Place: Surat, Gujarat, India
+ - Bio: Machine learning enthusiast.
+ - GitHub: [insiyaa](https://github.com/Insiyaa) 
