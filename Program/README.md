@@ -1,6 +1,6 @@
 # Follow These Conventions
 
-Add a `hello_world_yourusername.xx` script to the scripts directory in any language of your choice! Here is an example:
+Add a `hello_world_yourusername.xx` script to the scripts directory in any language of your choice! If your language is not present, do not hesitate to add a new directory for it. Here is an example:
 
 ```
 // LANGUAGE: Javascript
