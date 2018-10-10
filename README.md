@@ -10,7 +10,7 @@ This repository is open to all members of the GitHub community. Any member may c
 
 ## What is Hacktoberfest?
 
-Hacktoberfest is a month-long celebration of open source software run by [DigitalOcean](https://www.digitalocean.com/products/droplets/?_campaign=G|SEARCH|B|CORE&_adgroup=CORE|DigitalOcean&_keyword=digital%20ocean&_device=c&_copytype=biz_ad&_adposition=1t1&_medium=brand_sem&_source=google&_dkitrig=&_2dkitrig=&gclid=CjwKCAjwo_HdBRBjEiwAiPPXpEhI05LaQih9n5wYI9C1Pytg_T_zA0lvJeq-4fNZTHrAHshj3TOp9RoC0pwQAvD_BwE) in partnership with GitHub and Twilio.
+Hacktoberfest is a month-long celebration of open source software run by [DigitalOcean](https://www.digitalocean.com/products/droplets/) in partnership with GitHub and Twilio.
 
 * Hacktoberfest is open to everyone in our global community!
 * Five quality pull requests must be submitted to public GitHub repositories.
@@ -20,14 +20,14 @@ Hacktoberfest is a month-long celebration of open source software run by [Digita
 
 Ensure that you have a github profile. If not, make it asap.
 
-Register at [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/) Submit a PR to any public GitHub repository. Quality contributions are encouraged! You can look for open issues labeled "Hacktoberfest" for inspiration.
+Register [here](https://hacktoberfest.digitalocean.com/). Submit a PR to any public GitHub repository. Quality contributions are encouraged! You can look for [open issues labeled "Hacktoberfest"](https://github.com/search?p=2&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue&type=Issues) for inspiration.
 
 ## How to contribute to this Project?
 
 This project is mainly divided into five tasks that you need to do and will help you to complete your five PRs all on the same repository. It is advised to complete the tasks in the same order as mentioned below but you can choose any order that suits you. The tasks to be completed are -:
 
 1. Firstly, Add your name to the contributor list in the [CONTRIBUTORS.md](https://github.com/littlestar642/hacktoberfest-beginners/blob/master/CONTRIBUTORS.md) page. 
-2. Add a markdown page that has brief about your profile in the `profiles` directory
+2. Add a markdown page that has brief about your profile in the [profiles directory](https://github.com/littlestar642/hacktoberfest-beginners/tree/master/profiles)
 3. Add a description and a link to any external resource that you find useful and would want to share with the community. Write this in a `markdown` file and add it to resources directory.
 4. Write a `hello World` script in your favourite language and add it to the `Program` directory. Choose the language directory that you have used and make a new one if it's not already available.
 5. Add your code to a common webpage that shows all the contributors and their profiles.
