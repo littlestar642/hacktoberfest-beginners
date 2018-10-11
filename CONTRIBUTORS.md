@@ -3,6 +3,11 @@
  - Bio: Traveller && Foodie && Web Developer === true
  - GitHub: [littlestar642](https://github.com/littlestar642)
 
+#### Name: [Mohit Sharmal](https://github.com/mohitsharma29)
+  - Place: New Delhi, Delhi, India
+  - Bio: Computer Science Engineer with interest in AI research.
+  - GitHub: [mohitsharma29](https://github.com/mohitsharma29)
+  
 #### Name: [Phil](https://github.com/bitbrain-za)
  - Place: South Africa
  - Bio: Electronic Engineer and tinkerer
@@ -45,7 +50,7 @@
 
  #### Name: [KESHAV GOYAL](https://github.com/keshavgoyal2807)
  - PLACE:SURAT,GUJARAT,INDIA
- - BIO:AIMING TO BECOME A FULL STACK DEVELOPER,AT PRESENT LEARNING          JAVASCRIPT   AND FRONT-END DEVELOPMENT
+ - BIO:AIMING TO BECOME A FULL STACK DEVELOPER,AT PRESENT LEARNING JAVASCRIPT AND FRONT-END DEVELOPMENT
  - GIT-HUB:[keshavgoyal2807](https://github.com/keshavgoyal2807)
 
 #### Name: [Shivani Mishra](https://github.com/dushivani)
