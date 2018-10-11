@@ -61,7 +61,7 @@ Hacktoberfest comes with great prizes and goodies that you can show off to your 
  * **Limited Edition Hacktoberfest T-Shirt**
  * Stickers for you laptops
 
-The best part of the entire festival is that all these prizes are completely **free** and you need to pay for the shipping too in most of the cases.
+The best part of the entire festival is that all these prizes are completely **free** and you are even not needed to pay for the shipping too in most of the cases.
 
 Do visit this official [faq](https://hacktoberfest.digitalocean.com/faq)
 to clear all your doubts regarding hacktoberfest.
