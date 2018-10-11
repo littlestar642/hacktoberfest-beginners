@@ -36,4 +36,4 @@
  #### Name: [Sarsiz](https://github.com/sarsiz)
  - Place: Haryana, India
  - Bio: CSE, Undergrad
- - GitHub: [linehk](https://github.com/sarsiz)
+ - GitHub: [sarsiz](https://github.com/sarsiz)
