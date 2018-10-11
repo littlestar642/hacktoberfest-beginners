@@ -32,6 +32,11 @@
  - Place: GuangXi, China
  - Bio: Programmer for fun
  - GitHub: [linehk](https://github.com/linehk)
+ 
+ #### Name: [Sarsiz](https://github.com/sarsiz)
+ - Place: Haryana, India
+ - Bio: CSE, Undergrad
+ - GitHub: [sarsiz](https://github.com/sarsiz)
 
  #### Name: [KESHAV GOYAL](https://github.com/keshavgoyal2807)
  - PLACE:SURAT,GUJARAT,INDIA
@@ -47,4 +52,3 @@
  - Place: Surat, India
  - Bio: Evolving as a developer
  - GitHub: [Dhruvi Butti](https://github.com/Dhruvi16)
-
