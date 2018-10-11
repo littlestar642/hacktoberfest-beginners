@@ -37,3 +37,14 @@
  - PLACE:SURAT,GUJARAT,INDIA
  - BIO:AIMING TO BECOME A FULL STACK DEVELOPER,AT PRESENT LEARNING          JAVASCRIPT   AND FRONT-END DEVELOPMENT
  - GIT-HUB:[keshavgoyal2807](https://github.com/keshavgoyal2807)
+
+#### Name: [Shivani Mishra](https://github.com/dushivani)
+ - Place: Delhi, India
+ - Bio: Web developer, Programmer, love art & craft
+ - GitHub: [Shivani Mishra](https://github.com/dushivani) 
+
+ #### Name: [Dhruvi Butti](https://github.com/Dhruvi16)
+ - Place: Surat, India
+ - Bio: Evolving as a developer
+ - GitHub: [Dhruvi Butti](https://github.com/Dhruvi16)
+
