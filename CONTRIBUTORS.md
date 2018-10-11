@@ -32,8 +32,14 @@
  - Place: GuangXi, China
  - Bio: Programmer for fun
  - GitHub: [linehk](https://github.com/linehk)
+ 
+#### Name: [Shivani Mishra](https://github.com/dushivani)
+ - Place: Delhi, India
+ - Bio: Web developer, Programmer, love art & craft
+ - GitHub: [Shivani Mishra](https://github.com/dushivani) 
 
  #### Name: [Dhruvi Butti](https://github.com/Dhruvi16)
  - Place: Surat, India
  - Bio: Evolving as a developer
  - GitHub: [Dhruvi Butti](https://github.com/Dhruvi16)
+
