@@ -33,6 +33,11 @@
  - Bio: Programmer for fun
  - GitHub: [linehk](https://github.com/linehk)
  
+  #### Name: [NL. Sum](https://github.com/nlsum1)
+ - Place: Malaysia
+ - Bio: Software Engineer
+ - GitHub: [nlsum1](https://github.com/nlsum1)
+ 
  #### Name: [Sarsiz](https://github.com/sarsiz)
  - Place: Haryana, India
  - Bio: CSE, Undergrad
