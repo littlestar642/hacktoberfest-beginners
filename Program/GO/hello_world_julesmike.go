@@ -1,0 +1,11 @@
+// LANGUAGE: GO
+// AUTHOR: Jules Micheal
+// GITHUB: https://github.com/JulesMike
+
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello, World!")
+}
