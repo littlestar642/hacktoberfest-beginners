@@ -62,3 +62,8 @@
  - Place: Surat, India
  - Bio: Evolving as a developer
  - GitHub: [Dhruvi Butti](https://github.com/Dhruvi16)
+
+ #### Name: [Ravi KS](https://github.com/ksr1122)
+ - Place: Berlin, Germany
+ - Bio: Embedded Linux HMI Developer
+ - GitHub: [ravi_ks](https://github.com/ksr1122)
