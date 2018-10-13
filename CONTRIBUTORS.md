@@ -7,7 +7,7 @@
   - Place: New Delhi, Delhi, India
   - Bio: Computer Science Engineer with interest in AI research.
   - GitHub: [mohitsharma29](https://github.com/mohitsharma29)
-  
+
 #### Name: [Phil](https://github.com/bitbrain-za)
  - Place: South Africa
  - Bio: Electronic Engineer and tinkerer
@@ -37,12 +37,12 @@
  - Place: GuangXi, China
  - Bio: Programmer for fun
  - GitHub: [linehk](https://github.com/linehk)
- 
+
   #### Name: [NL. Sum](https://github.com/nlsum1)
  - Place: Malaysia
  - Bio: Software Engineer
  - GitHub: [nlsum1](https://github.com/nlsum1)
- 
+
  #### Name: [Sarsiz](https://github.com/sarsiz)
  - Place: Haryana, India
  - Bio: CSE, Undergrad
@@ -56,9 +56,14 @@
 #### Name: [Shivani Mishra](https://github.com/dushivani)
  - Place: Delhi, India
  - Bio: Web developer, Programmer, love art & craft
- - GitHub: [Shivani Mishra](https://github.com/dushivani) 
+ - GitHub: [Shivani Mishra](https://github.com/dushivani)
 
  #### Name: [Dhruvi Butti](https://github.com/Dhruvi16)
  - Place: Surat, India
  - Bio: Evolving as a developer
  - GitHub: [Dhruvi Butti](https://github.com/Dhruvi16)
+
+#### Name: [Suyash Bhutani](https://github.com/sid7)
+ - Place: Jabalpur, M.P, India
+ - Bio: Music addict, Web developer
+ - GitHub: [sid7](https://github.com/sid7)
