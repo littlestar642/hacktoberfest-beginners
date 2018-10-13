@@ -62,3 +62,8 @@
  - Place: Surat, India
  - Bio: Evolving as a developer
  - GitHub: [Dhruvi Butti](https://github.com/Dhruvi16)
+ 
+#### Name: [Insiyah Hajoori](https://github.com/Insiyaa)
+ - Place: Surat, Gujarat, India
+ - Bio: Machine learning enthusiast.
+ - GitHub: [insiyaa](https://github.com/Insiyaa) 
