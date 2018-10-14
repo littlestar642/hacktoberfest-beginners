@@ -31,8 +31,12 @@
  #### Name: [Abhishek Chaudhary](https://github.com/Worm4047/)
  - Place: Gurgaon, India
  - Bio: Web Developer === true
- - GitHub: [worm4047](https://github.com/Worm4047/)
-
+ - GitHub: [worm4047](https://github.com/Worm404
+ 
+ #### Name: [Kunal Katariya](https://github.com/KunalKatariya)
+ - Place: Surat, India
+ - Bio: Machine learning Enthusiast
+ - GitHub: [KunalKatariya](https://github.com/KunalKatariya)
  #### Name: [linehk](https://github.com/linehk)
  - Place: GuangXi, China
  - Bio: Programmer for fun
