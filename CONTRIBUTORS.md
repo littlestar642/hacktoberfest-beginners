@@ -67,3 +67,7 @@
  - Place: Surat, Gujarat, India
  - Bio: Machine learning enthusiast.
  - GitHub: [insiyaa](https://github.com/Insiyaa) 
+#### Name: [Fayaz Shaik](https://github.com/fayazshaik786)
+ -  Place: Surat, Gujarat, India
+ -  Bio: Computer science engineer, Machine Learning and AI interest
+ -  Github: [fayazshaik786](https://github.com/fayazshaik786)
