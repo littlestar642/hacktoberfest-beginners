@@ -73,4 +73,4 @@
  #### Name: [Raj Shah](https://github.com/rajshah9914)
  - Place: Surat, Gujarat, India
  - Bio: Deeply involved in Machine Learning workspace and a regular Competitive Coder. 
- - GitHub: [Raj Shah](https://github.com/rajshah9914) 
+ - GitHub: [rajshah9914](https://github.com/rajshah9914) 
