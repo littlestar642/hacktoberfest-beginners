@@ -68,7 +68,3 @@
  - Bio: Machine learning enthusiast.
  - GitHub: [insiyaa](https://github.com/Insiyaa) 
  
-  #### Name: [Abhinandan Trilokia](https://github.com/Trilokia)
- - Place: Jammu, Jammu & Kashmir, India
- - Bio: Android developer.
- - GitHub: [Trilokia](https://github.com/Trilokia) 
