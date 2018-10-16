@@ -78,6 +78,11 @@
  - Bio: Machine learning enthusiast.
  - GitHub: [insiyaa](https://github.com/Insiyaa) 
  
+  #### Name: [Abhinandan Trilokia](https://github.com/Trilokia)
+ - Place: Jammu, Jammu & Kashmir, India
+ - Bio: Android developer.
+ - GitHub: [Trilokia](https://github.com/Trilokia) 
+=======
  #### Name: [Kelvin Ng](https://github.com/darkang3lz92)
  Place: Malaysia
  Bio: Mobile app developer
@@ -98,3 +103,4 @@
  - Bio: Cricketer && Entrepreneur enthusiast && ML developer === true
  - GitHub: [shravankumar9892](https://github.com/shravankumar9892) 
 
+>>>>>>> upstream/master
