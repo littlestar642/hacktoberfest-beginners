@@ -67,3 +67,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Machine learning enthusiast.
  - GitHub: [insiyaa](https://github.com/Insiyaa) 
+
+#### Name: [Arnav Rupde](https://github.com/ArnavRupde)
+ - Place: Surat, Gujarat, India
+ - Bio: Aiming to become machine learning expert and competitive coder
+ - GitHub: [ArnavRupde](https://github.com/ArnavRupde) 
