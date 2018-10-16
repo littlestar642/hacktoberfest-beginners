@@ -67,3 +67,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Machine learning enthusiast.
  - GitHub: [insiyaa](https://github.com/Insiyaa) 
+
+ #### Name: [Vipin Yadav](https://imvpn22.github.io/)
+ - Place: Bangalore, Karnataka, India
+ - Bio: Full stack Web Developer.
+ - GitHub: [imvpn22](https://github.com/imvpn22) 
