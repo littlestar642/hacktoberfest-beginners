@@ -77,6 +77,11 @@
  - Place: Surat, Gujarat, India
  - Bio: Machine learning enthusiast.
  - GitHub: [insiyaa](https://github.com/Insiyaa) 
+ 
+ #### Name: [Kelvin Ng](https://github.com/darkang3lz92)
+ Place: Malaysia
+ Bio: Mobile app developer
+ GitHub: [darkang3lz92](https://github.com/darkang3lz92)
 
  #### Name: [Vipin Yadav](https://imvpn22.github.io/)
  - Place: Bangalore, Karnataka, India
