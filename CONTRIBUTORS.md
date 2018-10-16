@@ -3,6 +3,11 @@
  - Bio: Traveller && Foodie && Web Developer === true
  - GitHub: [littlestar642](https://github.com/littlestar642)
 
+#### Name: [Raymond Rosario](https://github.com/raymondTheDev)
+ - Place: Manila Philippines
+ - Bio: Code Monkey
+ - GitHub: [raymondTheDev](https://github.com/raymondTheDev) 
+
 #### Name: [KESHAV GOYAL](https://github.com/keshavgoyal2807)
  - PLACE:SURAT,GUJARAT,INDIA
  - BIO:AIMING TO BECOME A FULL STACK DEVELOPER,AT PRESENT LEARNING JAVASCRIPT AND FRONT-END DEVELOPMENT
@@ -82,3 +87,4 @@
  - Place: Surat, Gujarat, India
  - Bio: Cricketer && Entrepreneur enthusiast && ML developer === true
  - GitHub: [shravankumar9892](https://github.com/shravankumar9892) 
+
