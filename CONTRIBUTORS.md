@@ -38,6 +38,8 @@
  - Bio: Programmer for fun
  - GitHub: [linehk](https://github.com/linehk)
  
+ 
+ 
   #### Name: [NL. Sum](https://github.com/nlsum1)
  - Place: Malaysia
  - Bio: Software Engineer
@@ -67,3 +69,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Machine learning enthusiast.
  - GitHub: [insiyaa](https://github.com/Insiyaa) 
+ 
+ #### Name: [Raj Shah](https://github.com/rajshah9914)
+ - Place: Surat, Gujarat, India
+ - Bio: Deeply involved in Machine Learning workspace and a regular Competitive Coder. 
+ - GitHub: [Raj Shah](https://github.com/rajshah9914) 
