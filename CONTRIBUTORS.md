@@ -38,7 +38,7 @@
  - Bio: Programmer for fun
  - GitHub: [linehk](https://github.com/linehk)
  
-  #### Name: [NL. Sum](https://github.com/nlsum1)
+ #### Name: [NL. Sum](https://github.com/nlsum1)
  - Place: Malaysia
  - Bio: Software Engineer
  - GitHub: [nlsum1](https://github.com/nlsum1)
@@ -72,3 +72,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Aiming to become machine learning expert and competitive coder
  - GitHub: [ArnavRupde](https://github.com/ArnavRupde) 
+
+#### Name: [Shravankumar Shetty](https://github.com/shravankumar9892)
+ - Place: Surat, Gujarat, India
+ - Bio: Cricketer && Entrepreneur enthusiast && ML developer === true
+ - GitHub: [shravankumar9892](https://github.com/shravankumar9892) 
