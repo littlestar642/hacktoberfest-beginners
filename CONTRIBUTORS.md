@@ -68,8 +68,12 @@
  - Bio: Machine learning enthusiast.
  - GitHub: [insiyaa](https://github.com/Insiyaa) 
 
+#### Name: [Arnav Rupde](https://github.com/ArnavRupde)
+ - Place: Surat, Gujarat, India
+ - Bio: Aiming to become machine learning expert and competitive coder
+ - GitHub: [ArnavRupde](https://github.com/ArnavRupde) 
+
 #### Name: [Shravankumar Shetty](https://github.com/shravankumar9892)
  - Place: Surat, Gujarat, India
  - Bio: Cricketer && Entrepreneur enthusiast && ML developer === true
  - GitHub: [shravankumar9892](https://github.com/shravankumar9892) 
-
