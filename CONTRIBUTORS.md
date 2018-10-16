@@ -98,3 +98,7 @@
  - Bio: Cricketer && Entrepreneur enthusiast && ML developer === true
  - GitHub: [shravankumar9892](https://github.com/shravankumar9892) 
 
+ #### Name: [Ujjwal Kumar](https://github.com/ujjwal0501)
+  - Place: Surat, Gujarat, India
+  - Bio: Coder, Android Developer
+  - GitHub: [Ujjwal0501](https://github.com/ujjwal0501) 
