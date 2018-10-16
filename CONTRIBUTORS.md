@@ -3,6 +3,16 @@
  - Bio: Traveller && Foodie && Web Developer === true
  - GitHub: [littlestar642](https://github.com/littlestar642)
 
+#### Name: [Raymond Rosario](https://github.com/raymondTheDev)
+ - Place: Manila Philippines
+ - Bio: Code Monkey
+ - GitHub: [raymondTheDev](https://github.com/raymondTheDev) 
+
+#### Name: [KESHAV GOYAL](https://github.com/keshavgoyal2807)
+ - PLACE:SURAT,GUJARAT,INDIA
+ - BIO:AIMING TO BECOME A FULL STACK DEVELOPER,AT PRESENT LEARNING JAVASCRIPT AND FRONT-END DEVELOPMENT
+ - GIT-HUB:[keshavgoyal2807](https://github.com/keshavgoyal2807)
+
 #### Name: [Mohit Sharmal](https://github.com/mohitsharma29)
   - Place: New Delhi, Delhi, India
   - Bio: Computer Science Engineer with interest in AI research.
@@ -38,7 +48,7 @@
  - Bio: Programmer for fun
  - GitHub: [linehk](https://github.com/linehk)
  
-  #### Name: [NL. Sum](https://github.com/nlsum1)
+ #### Name: [NL. Sum](https://github.com/nlsum1)
  - Place: Malaysia
  - Bio: Software Engineer
  - GitHub: [nlsum1](https://github.com/nlsum1)
@@ -72,3 +82,25 @@
  - Place: Jammu, Jammu & Kashmir, India
  - Bio: Android developer.
  - GitHub: [Trilokia](https://github.com/Trilokia) 
+=======
+ #### Name: [Kelvin Ng](https://github.com/darkang3lz92)
+ Place: Malaysia
+ Bio: Mobile app developer
+ GitHub: [darkang3lz92](https://github.com/darkang3lz92)
+
+ #### Name: [Vipin Yadav](https://imvpn22.github.io/)
+ - Place: Bangalore, Karnataka, India
+ - Bio: Full stack Web Developer.
+ - GitHub: [imvpn22](https://github.com/imvpn22) 
+
+#### Name: [Arnav Rupde](https://github.com/ArnavRupde)
+ - Place: Surat, Gujarat, India
+ - Bio: Aiming to become machine learning expert and competitive coder
+ - GitHub: [ArnavRupde](https://github.com/ArnavRupde) 
+
+#### Name: [Shravankumar Shetty](https://github.com/shravankumar9892)
+ - Place: Surat, Gujarat, India
+ - Bio: Cricketer && Entrepreneur enthusiast && ML developer === true
+ - GitHub: [shravankumar9892](https://github.com/shravankumar9892) 
+
+>>>>>>> upstream/master
