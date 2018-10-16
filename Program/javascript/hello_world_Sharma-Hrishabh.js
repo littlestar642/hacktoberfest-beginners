@@ -1,5 +1,5 @@
 //Language : Javascript
-//Author: Rishabh Kumar
+//Author: Hrishabh Sharma
 //GitHub: https://github.com/Sharma-Hrishabh
 
 console.log('Hello, World!');
