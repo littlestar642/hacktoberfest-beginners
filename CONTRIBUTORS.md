@@ -72,3 +72,9 @@
  - Place: Surat, Gujarat, India
  - Bio: Aiming to become machine learning expert and competitive coder
  - GitHub: [ArnavRupde](https://github.com/ArnavRupde) 
+
+
+#### Name: [Raj Shah](https://github.com/rajshah9914)
+ - Place: Surat, Gujarat, India
+ - Bio: Emerging as a Machine Learning Developer and a regular Competitive Coder.
+ - GitHub: [rajshah9914](https://github.com/rajshah9914)
