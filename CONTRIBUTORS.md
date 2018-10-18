@@ -98,3 +98,7 @@
  - Bio: Cricketer && Entrepreneur enthusiast && ML developer === true
  - GitHub: [shravankumar9892](https://github.com/shravankumar9892) 
 
+#### Name: [Gourav Somani](https://github.com/gouravsomani)
+ - Place: Surat, Gujarat, India
+ - Bio: Frontend web developer
+ - GitHub: [gouravsomani](https://github.com/gouravsomani) 
