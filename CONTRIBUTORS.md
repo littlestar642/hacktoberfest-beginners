@@ -97,8 +97,3 @@
  - Place: Surat, Gujarat, India
  - Bio: Cricketer && Entrepreneur enthusiast && ML developer === true
  - GitHub: [shravankumar9892](https://github.com/shravankumar9892)
-
- #### Name: [Kishan Singh](https://github.com/rkishan516)
-  - Place: Surat, Gujarat, India
-  - Bio: Android and Flutter Developer
-  - GitHub: [rkishan516](https://github.com/rkishan516)
