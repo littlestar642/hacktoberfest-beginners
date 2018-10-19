@@ -67,3 +67,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Machine learning enthusiast.
  - GitHub: [insiyaa](https://github.com/Insiyaa) 
+
+#### Name: [Shem Ipanag](https://github.com/Chibi-Shem)
+ - Place: Davao, Philippines
+ - Bio: Programmer.
+ - GitHub: [Chibi Shem](https://github.com/Chibi-Shem) 
