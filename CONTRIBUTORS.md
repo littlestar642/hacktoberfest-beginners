@@ -96,5 +96,10 @@
 #### Name: [Shravankumar Shetty](https://github.com/shravankumar9892)
  - Place: Surat, Gujarat, India
  - Bio: Cricketer && Entrepreneur enthusiast && ML developer === true
- - GitHub: [shravankumar9892](https://github.com/shravankumar9892) 
+ - GitHub: [shravankumar9892](https://github.com/shravankumar9892)
+ 
+ #### Name: [Nikhil Kumar Gautam](https://github.com/nikhilkrgautam)
+  - Place: Surat, Gujarat, India
+  - Bio: Footballer and wanna be a competitive coder
+  - GitHub: [nikhilkrgautam](https://github.com/nikhilkrgautan)
 
