@@ -132,3 +132,9 @@
  - Place: Surat, Gujarat, India
  - Bio: Working on Machine learning and computer vision
  - GitHub: [Jenimpatel](https://github.com/Jenimpatel)
+ 
+ #### Name: [Rakin Uddin](https://github.com/ItsMeWithTheFace)
+ - Place: Toronto, Canada
+ - Bio: Software engineer with a passion for backend and infrastructure development
+ - GitHub: [ItsMeWithTheFace](https://github.com/ItsMeWithTheFace)
+ 
