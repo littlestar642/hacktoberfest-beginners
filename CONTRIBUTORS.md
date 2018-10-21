@@ -1,7 +1,12 @@
 #### Name: [Avinash Jaiswal](https://github.com/littlestar642)
  - Place: Surat, Gujarat, India
  - Bio: Traveller && Foodie && Web Developer === true
- - GitHub: [littlestar642](https://github.com/littlestar642)
+ - GitHub: [littlestar642](https://github.com/littlestar642) 
+
+ #### Name: [Romy Werksma](https://github.com/flixie)
+ - Place: Groningen, The Netherlands
+ - Bio: #Liefde
+ - GitHub: [Flixie](https://github.com/flixie) 
 
 #### Name: [Raymond Rosario](https://github.com/raymondTheDev)
  - Place: Manila Philippines
@@ -122,4 +127,3 @@
  - Place: Surat, Gujarat, India
  - Bio: Working on Machine learning and computer vision
  - GitHub: [Jenimpatel](https://github.com/Jenimpatel)
-
