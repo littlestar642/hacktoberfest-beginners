@@ -1,17 +1,17 @@
 #### Name: [Avinash Jaiswal](https://github.com/littlestar642)
  - Place: Surat, Gujarat, India
  - Bio: Traveller && Foodie && Web Developer === true
- - GitHub: [littlestar642](https://github.com/littlestar642) 
+ - GitHub: [littlestar642](https://github.com/littlestar642)
 
  #### Name: [Romy Werksma](https://github.com/flixie)
  - Place: Groningen, The Netherlands
  - Bio: #Liefde
- - GitHub: [Flixie](https://github.com/flixie) 
+ - GitHub: [Flixie](https://github.com/flixie)
 
 #### Name: [Raymond Rosario](https://github.com/raymondTheDev)
  - Place: Manila Philippines
  - Bio: Code Monkey
- - GitHub: [raymondTheDev](https://github.com/raymondTheDev) 
+ - GitHub: [raymondTheDev](https://github.com/raymondTheDev)
 
 #### Name: [KESHAV GOYAL](https://github.com/keshavgoyal2807)
  - PLACE:SURAT,GUJARAT,INDIA
@@ -22,7 +22,7 @@
   - Place: New Delhi, Delhi, India
   - Bio: Computer Science Engineer with interest in AI research.
   - GitHub: [mohitsharma29](https://github.com/mohitsharma29)
-  
+
 #### Name: [Phil](https://github.com/bitbrain-za)
  - Place: South Africa
  - Bio: Electronic Engineer and tinkerer
@@ -42,7 +42,7 @@
  - Place: Varanasi, India
  - Bio: Web Developer, Programmer
  - GitHub: [kartikey-singh](https://github.com/kartikey-singh)
- 
+
  #### Name: [Vivek Bheda](https://github.com/bh3d4)
  - Place : Surat, India
  - Bio: Web Developer, Programmer
@@ -51,8 +51,8 @@
  #### Name: [Abhishek Chaudhary](https://github.com/Worm4047/)
  - Place: Gurgaon, India
  - Bio: Web Developer === true
- - GitHub: [worm4047](https://github.com/Worm4047/) 
- 
+ - GitHub: [worm4047](https://github.com/Worm4047/)
+
  #### Name: [Bennie van der Walt](https://github.com/bvdwalt)
  - Place: Centurion, Gauteng, South Africa
  - Bio: Enjoy learning new things
@@ -62,12 +62,12 @@
  - Place: GuangXi, China
  - Bio: Programmer for fun
  - GitHub: [linehk](https://github.com/linehk)
- 
+
  #### Name: [NL. Sum](https://github.com/nlsum1)
  - Place: Malaysia
  - Bio: Software Engineer
  - GitHub: [nlsum1](https://github.com/nlsum1)
- 
+
  #### Name: [Sarsiz](https://github.com/sarsiz)
  - Place: Haryana, India
  - Bio: CSE, Undergrad
@@ -81,23 +81,23 @@
 #### Name: [Shivani Mishra](https://github.com/dushivani)
  - Place: Delhi, India
  - Bio: Web developer, Programmer, love art & craft
- - GitHub: [Shivani Mishra](https://github.com/dushivani) 
+ - GitHub: [Shivani Mishra](https://github.com/dushivani)
 
  #### Name: [Dhruvi Butti](https://github.com/Dhruvi16)
  - Place: Surat, India
  - Bio: Evolving as a developer
  - GitHub: [Dhruvi Butti](https://github.com/Dhruvi16)
- 
+
 #### Name: [Insiyah Hajoori](https://github.com/Insiyaa)
  - Place: Surat, Gujarat, India
  - Bio: Machine learning enthusiast.
- - GitHub: [insiyaa](https://github.com/Insiyaa) 
+ - GitHub: [insiyaa](https://github.com/Insiyaa)
 
 #### Name: [Shem Ipanag](https://github.com/Chibi-Shem)
  - Place: Davao, Philippines
  - Bio: Programmer.
- - GitHub: [Chibi Shem](https://github.com/Chibi-Shem) 
- 
+ - GitHub: [Chibi Shem](https://github.com/Chibi-Shem)
+
  #### Name: [Kelvin Ng](https://github.com/darkang3lz92)
  - Place: Malaysia
  - Bio: Mobile app developer
@@ -106,12 +106,12 @@
  #### Name: [Vipin Yadav](https://imvpn22.github.io/)
  - Place: Bangalore, Karnataka, India
  - Bio: Full stack Web Developer.
- - GitHub: [imvpn22](https://github.com/imvpn22) 
+ - GitHub: [imvpn22](https://github.com/imvpn22)
 
 #### Name: [Arnav Rupde](https://github.com/ArnavRupde)
  - Place: Surat, Gujarat, India
  - Bio: Aiming to become machine learning expert and competitive coder
- - GitHub: [ArnavRupde](https://github.com/ArnavRupde) 
+ - GitHub: [ArnavRupde](https://github.com/ArnavRupde)
 
 #### Name: [Raj Shah](https://github.com/rajshah9914)
  - Place: Surat, Gujarat, India
@@ -121,14 +121,19 @@
 #### Name: [Shravankumar Shetty](https://github.com/shravankumar9892)
  - Place: Surat, Gujarat, India
  - Bio: Cricketer && Entrepreneur enthusiast && ML developer === true
- - GitHub: [shravankumar9892](https://github.com/shravankumar9892) 
+ - GitHub: [shravankumar9892](https://github.com/shravankumar9892)
 
 #### Name: [Gourav Somani](https://github.com/gouravsomani)
  - Place: Surat, Gujarat, India
  - Bio: Frontend web developer
- - GitHub: [gouravsomani](https://github.com/gouravsomani) 
+ - GitHub: [gouravsomani](https://github.com/gouravsomani)
 
 #### Name: [Jenim Patel](https://github.com/Jenimpatel)
  - Place: Surat, Gujarat, India
  - Bio: Working on Machine learning and computer vision
  - GitHub: [Jenimpatel](https://github.com/Jenimpatel)
+
+ #### Name: [Parthav Patel](https://github.com/Parthav46)
+  - Place: Surat, Gujarat, India
+  - Bio: Still thinking what is the Ultimate Question of Life, the Universe and Everything? Hint: Answer is [42](https://simple.wikipedia.org/wiki/42_(answer))
+  - GitHub: [Parthav46](https://github.com/Parthav46)
