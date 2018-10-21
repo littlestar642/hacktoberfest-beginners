@@ -37,6 +37,12 @@
  - Place: Varanasi, India
  - Bio: Web Developer, Programmer
  - GitHub: [kartikey-singh](https://github.com/kartikey-singh)
+ 
+ #### Name: [Vivek Bheda](https://github.com/bh3d4)
+ - Place : Surat, India
+ - Bio: Web Developer, Programmer
+ - GitHub: [Vivek Bheda](https://github.com/bh3d4)
+
 
  #### Name: [Abhishek Chaudhary](https://github.com/Worm4047/)
  - Place: Gurgaon, India
@@ -78,6 +84,11 @@
  - Bio: Machine learning enthusiast.
  - GitHub: [insiyaa](https://github.com/Insiyaa) 
  
+#### Name: [Shem Ipanag](https://github.com/Chibi-Shem)
+ - Place: Davao, Philippines
+ - Bio: Programmer.
+ - GitHub: [Chibi Shem](https://github.com/Chibi-Shem) 
+ 
  #### Name: [Kelvin Ng](https://github.com/darkang3lz92)
  Place: Malaysia
  Bio: Mobile app developer
@@ -102,3 +113,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Frontend web developer
  - GitHub: [gouravsomani](https://github.com/gouravsomani) 
+
+#### Name: [Jenim Patel](https://github.com/Jenimpatel)
+ - Place: Surat, Gujarat, India
+ - Bio: Working on Machine learning and computer vision
+ - GitHub: [Jenimpatel](https://github.com/Jenimpatel)
