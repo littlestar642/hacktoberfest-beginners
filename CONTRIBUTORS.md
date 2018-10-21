@@ -43,7 +43,6 @@
  - Bio: Web Developer, Programmer
  - GitHub: [Vivek Bheda](https://github.com/bh3d4)
 
-
  #### Name: [Abhishek Chaudhary](https://github.com/Worm4047/)
  - Place: Gurgaon, India
  - Bio: Web Developer === true
@@ -83,7 +82,7 @@
  - Place: Surat, Gujarat, India
  - Bio: Machine learning enthusiast.
  - GitHub: [insiyaa](https://github.com/Insiyaa) 
- 
+
 #### Name: [Shem Ipanag](https://github.com/Chibi-Shem)
  - Place: Davao, Philippines
  - Bio: Programmer.
@@ -104,6 +103,11 @@
  - Bio: Aiming to become machine learning expert and competitive coder
  - GitHub: [ArnavRupde](https://github.com/ArnavRupde) 
 
+#### Name: [Raj Shah](https://github.com/rajshah9914)
+ - Place: Surat, Gujarat, India
+ - Bio: Emerging as a Machine Learning Developer and a regular Competitive Coder.
+ - GitHub: [rajshah9914](https://github.com/rajshah9914)
+
 #### Name: [Shravankumar Shetty](https://github.com/shravankumar9892)
  - Place: Surat, Gujarat, India
  - Bio: Cricketer && Entrepreneur enthusiast && ML developer === true
@@ -118,3 +122,4 @@
  - Place: Surat, Gujarat, India
  - Bio: Working on Machine learning and computer vision
  - GitHub: [Jenimpatel](https://github.com/Jenimpatel)
+
