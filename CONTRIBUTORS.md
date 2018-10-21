@@ -84,6 +84,11 @@
  - Bio: Machine learning enthusiast.
  - GitHub: [insiyaa](https://github.com/Insiyaa) 
  
+#### Name: [Shem Ipanag](https://github.com/Chibi-Shem)
+ - Place: Davao, Philippines
+ - Bio: Programmer.
+ - GitHub: [Chibi Shem](https://github.com/Chibi-Shem) 
+ 
  #### Name: [Kelvin Ng](https://github.com/darkang3lz92)
  Place: Malaysia
  Bio: Mobile app developer
@@ -103,4 +108,3 @@
  - Place: Surat, Gujarat, India
  - Bio: Cricketer && Entrepreneur enthusiast && ML developer === true
  - GitHub: [shravankumar9892](https://github.com/shravankumar9892) 
-
