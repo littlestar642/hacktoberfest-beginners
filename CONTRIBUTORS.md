@@ -89,9 +89,9 @@
  - GitHub: [Chibi Shem](https://github.com/Chibi-Shem) 
  
  #### Name: [Kelvin Ng](https://github.com/darkang3lz92)
- Place: Malaysia
- Bio: Mobile app developer
- GitHub: [darkang3lz92](https://github.com/darkang3lz92)
+ - Place: Malaysia
+ - Bio: Mobile app developer
+ - GitHub: [darkang3lz92](https://github.com/darkang3lz92)
 
  #### Name: [Vipin Yadav](https://imvpn22.github.io/)
  - Place: Bangalore, Karnataka, India
