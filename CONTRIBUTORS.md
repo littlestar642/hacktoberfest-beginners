@@ -37,6 +37,12 @@
  - Place: Varanasi, India
  - Bio: Web Developer, Programmer
  - GitHub: [kartikey-singh](https://github.com/kartikey-singh)
+ 
+ #### Name: [Vivek Bheda](https://github.com/bh3d4)
+ - Place : Surat, India
+ - Bio: Web Developer, Programmer
+ - GitHub: [Vivek Bheda](https://github.com/bh3d4)
+
 
  #### Name: [Abhishek Chaudhary](https://github.com/Worm4047/)
  - Place: Gurgaon, India
