@@ -23,7 +23,7 @@
   - Bio: Computer Science Engineer with interest in AI research.
   - GitHub: [mohitsharma29](https://github.com/mohitsharma29)
   
-#### Name: [Phil](https://github.com/bitbrain-za)
+#### Name::: [Phil](https://github.com/bitbrain-za)
  - Place: South Africa
  - Bio: Electronic Engineer and tinkerer
  - GitHub: [Bitbrain](https://github.com/bitbrain-za)
