@@ -137,3 +137,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Working on Machine learning and computer vision
  - GitHub: [Jenimpatel](https://github.com/Jenimpatel)
+ 
+ #### Name: [Dharmik Bhatt](https://github.com/bolt25)
+ - Place: Surat, Gujarat, India
+ - Bio: Working on ML and deep learning
+ - GitHub: [Dharmikbhatt](https://github.com/bolt25)
