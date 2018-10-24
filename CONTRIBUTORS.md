@@ -137,3 +137,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Working on Machine learning and computer vision
  - GitHub: [Jenimpatel](https://github.com/Jenimpatel)
+ 
+#### Name: [Valerie Nguyen](https://github.com/valthuynguyen)
+ - Place: California, USA
+ - Bio: Enjoy learning new things. Just started coding and loving it. 
+ - GitHub: [valerienguyen](https://github.com/valthuynguyen)
