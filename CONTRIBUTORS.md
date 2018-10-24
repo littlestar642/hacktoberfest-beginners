@@ -137,3 +137,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Working on Machine learning and computer vision
  - GitHub: [Jenimpatel](https://github.com/Jenimpatel)
+ 
+ #### Name: [Christian mae Mendez](https://github.com/ChristianMae)
+ - Place: Davao City, Philippines
+ - Bio: Junior web developer and future software engineer.
+ - GitHub: [ChristianMae](https://github.com/ChristianMae)
