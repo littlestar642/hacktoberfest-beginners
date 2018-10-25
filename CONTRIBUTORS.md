@@ -137,3 +137,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Working on Machine learning and computer vision
  - GitHub: [Jenimpatel](https://github.com/Jenimpatel)
+
+#### Name: [Mansi Sampatl](https://github.com/mansi1710)
+ - Place: Surat, Gujarat, India
+ - Bio: Working on Deep learning, Machine learning. Enthusiast about data structures and algorihtms
+ - GitHub: [mansi1710](https://github.com/mansi1710)
