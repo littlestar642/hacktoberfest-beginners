@@ -137,3 +137,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Working on Machine learning and computer vision
  - GitHub: [Jenimpatel](https://github.com/Jenimpatel)
+ 
+ #### Name: [Arpit Jain](https://github.com/arpitjp)
+ - Place: Varanasi, Uttar Pradesh, India
+ - Bio: Android Developer; Foodie; An avid reader;
+ - GitHub: [arpitjp](https://github.com/arpitjp)
