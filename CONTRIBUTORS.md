@@ -137,3 +137,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Working on Machine learning and computer vision
  - GitHub: [Jenimpatel](https://github.com/Jenimpatel)
+ 
+ Name: [Ishank Jain](https://github.com/ishank2699)
+ - Place: Delhi,India
+ - Bio: web developer,coder.
+ - GitHub: [ishank2699](https://github.com/ishank2699)
