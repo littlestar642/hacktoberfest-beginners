@@ -137,3 +137,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Working on Machine learning and computer vision
  - GitHub: [Jenimpatel](https://github.com/Jenimpatel)
+
+#### Name: [Pritesh Tripathi](https://github.com/priteshtripathi7)
+ - Place: Surat, Gujarat, India
+ - Bio: Frontend Developer
+ - GitHub: [priteshtripathi7](https://github.com/priteshtripathi7)
