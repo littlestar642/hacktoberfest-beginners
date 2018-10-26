@@ -137,3 +137,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Working on Machine learning and computer vision
  - GitHub: [Jenimpatel](https://github.com/Jenimpatel)
+
+#### Name: [Aditya Kumar](https://github.com/adi6428)
+ - Place: Surat, Gujarat, India
+ - Bio: Currently a Front end developer and aim to be a good competetive coder.
+ - GitHub: [adi6428](https://github.com/adi6428)
