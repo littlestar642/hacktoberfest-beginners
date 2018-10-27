@@ -137,3 +137,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Working on Machine learning and computer vision
  - GitHub: [Jenimpatel](https://github.com/Jenimpatel)
+ 
+#### Name: [Ujjwal Kumar](https://github.com/Ujjwal0501)
+ - Place: Surat, Gujarat, India
+ - Bio: Coder, Android Developer
+ - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
