@@ -2,12 +2,7 @@
  - Place: Surat, Gujarat, India
  - Bio: Traveller && Foodie && Web Developer === true
  - GitHub: [littlestar642](https://github.com/littlestar642) 
-
- #### Name: [Romy Werksma](https://github.com/flixie)
- - Place: Groningen, The Netherlands
- - Bio: #Liefde
- - GitHub: [Flixie](https://github.com/flixie) 
-
+ 
 #### Name: [Raymond Rosario](https://github.com/raymondTheDev)
  - Place: Manila Philippines
  - Bio: Code Monkey
