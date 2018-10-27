@@ -67,3 +67,7 @@
  - Place: Surat, Gujarat, India
  - Bio: Machine learning enthusiast.
  - GitHub: [insiyaa](https://github.com/Insiyaa) 
+ #### Name: [Punit Jain](https://github.com/Pj18)
+ - Place: Surat, Gujarat, India
+ - Bio: Coder,Gamer
+ - GitHub: [Pj18](https://github.com/Pj18)
