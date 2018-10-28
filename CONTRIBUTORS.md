@@ -142,3 +142,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Machine Learning Enthusiast
  - GitHub: [sourabhvarshney111](https://github.com/sourabhvarshney111) 
+ 
+#### Name: [Ujjwal Kumar](https://github.com/Ujjwal0501)
+ - Place: Surat, Gujarat, India
+ - Bio: Coder, Android Developer
+ - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
