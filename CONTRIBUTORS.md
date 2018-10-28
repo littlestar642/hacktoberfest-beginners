@@ -37,6 +37,12 @@
  - Place: Thessaloniki, Greece
  - Bio: Electrical & Computer Engineering Student
  - GitHub: [kosmastsk](https://github.com/kosmastsk)
+ 
+ ####[ishank](https://github.com/ishank)
+ - Place: delhi
+ - Bio: Computer Engineering Student
+ - GitHub: [ishank](https://github.com/ishank2699)
+
 
 #### Name: [Kartikey Singh](https://github.com/kartikey-singh)
  - Place: Varanasi, India
@@ -127,11 +133,6 @@
   - Place: Surat, Gujarat, India
   - Bio: Footballer and wanna be a competitive coder
   - GitHub: [nikhilkrgautam](https://github.com/nikhilkrgautan)
-
-#### Name: [Gourav Somani](https://github.com/gouravsomani)
- - Place: Surat, Gujarat, India
- - Bio: Frontend web developer
- - GitHub: [gouravsomani](https://github.com/gouravsomani) 
 
 #### Name: [Jenim Patel](https://github.com/Jenimpatel)
  - Place: Surat, Gujarat, India
