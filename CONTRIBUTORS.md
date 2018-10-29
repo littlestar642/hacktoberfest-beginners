@@ -142,3 +142,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+
+#### Name: [Rogin Koshy](https://github.com/Roginkoshy)
+ - Place: Surat, Gujarat, India.
+ - Bio: Competitive Coder, Web Development Enthusiast.
+ - Github: [Roginkoshy](https://github.com/Roginkoshy)
