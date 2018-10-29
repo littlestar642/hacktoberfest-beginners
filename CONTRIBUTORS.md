@@ -142,3 +142,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+ 
+ #### Name: [Aditya Mahajan](https://github.com/aditya0811)
+ - Place: Surat, Gujarat, India
+ - Bio: Data Geek:Learning how to draw insights from data!
+ - GitHub: [Aditya Mahajan](https://github.com/aditya0811)
