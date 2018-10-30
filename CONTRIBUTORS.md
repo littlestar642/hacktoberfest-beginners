@@ -147,3 +147,9 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+
+
+#### Name: [VIDHEY](https://github.com/VIDHEY)
+ - Place: Surat, Gujarat, India
+ - Bio: Traveller && CRICKET LOVER && Web Developer === true
+ - GitHub: [VIDHEY](https://github.com/VIDHEY)
