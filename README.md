@@ -4,7 +4,7 @@ The repository solely aims to provide beginners a starting point to contribute t
 
 `Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!`
 
-Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com) by getting involved in the open source community by completing some simple tasks in this project.This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
+Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com) by getting involved in the open source community by completing some simple tasks in this project. This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
 
 **Important**
 
@@ -28,9 +28,9 @@ Register [here](https://hacktoberfest.digitalocean.com/). Submit a PR to any pub
 
 This project is mainly divided into five tasks that you need to do and will help you to complete your five PRs all on the same repository. It is advised to complete the tasks in the same order as mentioned below but you can choose any order that suits you. The tasks to be completed are -:
 
-1. Firstly, Add your name to the contributor list in the [CONTRIBUTORS.md](https://github.com/littlestar642/hacktoberfest-beginners/blob/master/CONTRIBUTORS.md) page. 
-2. Add a markdown page that has brief about your profile in the [profiles directory](https://github.com/littlestar642/hacktoberfest-beginners/tree/master/profiles)
-3. Add a description and a link to any external resource that you find useful and would want to share with the community. Write this in a `markdown` file and add it to resources directory.
+1. Firstly, Add your name to the contributor list in the [CONTRIBUTORS.md](https://github.com/littlestar642/hacktoberfest-beginners/blob/master/CONTRIBUTORS.md) markdown page. 
+2. Add a markdown page in [profiles](https://github.com/littlestar642/hacktoberfest-beginners/tree/master/profiles) directory that has your brief profile.
+3. Add a description and a link to any external resource that you find useful and would want to share with the community. Write this in a markdown file and add it to [resources](https://github.com/littlestar642/hacktoberfest-beginners/tree/master/resources) directory.
 4. Write a `hello World` script in your favourite language and add it to the `Program` directory. Choose the language directory that you have used and make a new one if it's not already available.
 5. Add your code to a common webpage that shows all the contributors and their profiles.
 

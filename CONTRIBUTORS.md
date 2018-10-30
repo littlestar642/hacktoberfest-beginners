@@ -121,7 +121,12 @@
 #### Name: [Shravankumar Shetty](https://github.com/shravankumar9892)
  - Place: Surat, Gujarat, India
  - Bio: Cricketer && Entrepreneur enthusiast && ML developer === true
- - GitHub: [shravankumar9892](https://github.com/shravankumar9892) 
+ - GitHub: [shravankumar9892](https://github.com/shravankumar9892)
+ 
+ #### Name: [Nikhil Kumar Gautam](https://github.com/nikhilkrgautam)
+  - Place: Surat, Gujarat, India
+  - Bio: Footballer and wanna be a competitive coder
+  - GitHub: [nikhilkrgautam](https://github.com/nikhilkrgautan)
 
 #### Name: [Gourav Somani](https://github.com/gouravsomani)
  - Place: Surat, Gujarat, India
@@ -133,8 +138,9 @@
  - Bio: Working on Machine learning and computer vision
  - GitHub: [Jenimpatel](https://github.com/Jenimpatel)
  
- #### Name: [Rakin Uddin](https://github.com/ItsMeWithTheFace)
- - Place: Toronto, Canada
- - Bio: Software engineer with a passion for backend and infrastructure development
- - GitHub: [ItsMeWithTheFace](https://github.com/ItsMeWithTheFace)
- 
+#### Name: [Ujjwal Kumar](https://github.com/Ujjwal0501)
+ - Place: Surat, Gujarat, India
+ - Bio: Coder, Android Developer
+ - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+
+
