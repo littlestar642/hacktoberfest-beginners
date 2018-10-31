@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+
+#### Name: [Shikhar Sarang](https://github.com/Codenthu)
+ - Place: Surat, Gujarat, India
+ - Bio: Student, Want to learn Coding.
+ - GitHub: [Codenthu](https://github.com/Codenthu)
