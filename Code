@@ -1,0 +1,29 @@
+#include <stdio.h>
+
+ // The Game of 21
+ // With a condition that The computer always wins.
+ void main()
+ {
+    int n,i,sum=0;
+    printf("The Rules of the game: \n")
+    printf("There are 21 numbers in the game the user and the computer can select any number between Zero & Four turn by turn till the sum of all selected numbers becoame 21 the player loses when the number he/she has selected is added to the sum and it becomes 21. \n")
+    printf("The first turn is of user. \n")
+    for(i=1;sum!=20;i++)
+    {
+        printf("Enter your choice:");
+        scanf("%d",&n);
+        printf("\n");
+        if(n<=0 || n>=5)
+        {
+            printf("Enter valid number!!");
+        }
+        else
+        {
+            printf("The computer has selected %d. \n",5-n);
+            sum+=5;
+            printf("The sum of numbers selected till now is %d. \n",sum");
+         }   
+    }
+    printf("The user can now only select 1. And so the sum is 21. \n");
+    printf("So the user losses. \n");
+  }
