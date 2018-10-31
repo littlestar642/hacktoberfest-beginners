@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+
+#### Name: [Rakin Uddin](https://github.com/ItsMeWithTheFace)
+ - Place: Toronto, Canada
+ - Bio: Backend API and Infrastructure Developer
+ - GitHub: [ItsMeWithTheFace](https://github.com/ItsMeWithTheFace)
