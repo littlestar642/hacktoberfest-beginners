@@ -1,4 +1,8 @@
 #include <stdio.h>
+ // LANGUAGE: C
+ // AUTHOR: Shikhar Sarang
+ // GITHUB: https://github.com/Codenthu 
+ 
  void main()
  {
     printf("Hello to the World of Open Source Coding of Github.")
