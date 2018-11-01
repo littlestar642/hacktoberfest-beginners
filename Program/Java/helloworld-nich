@@ -1,0 +1,14 @@
+
+
+//Language : Java
+//Author : Nicholas Huber
+//Github : https://github.com/nicholashuber
+
+public class hello_world_hacktoberfest {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Hello hacktoberfest!");
+	}
+
+}
