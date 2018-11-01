@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+ 
+ #### Name: [Nicholas Huber](https://github.com/littlestar642)
+ - Place: Surat, Gujarat, India
+ - Bio: Developer
+ - GitHub: [nicholashuber](https://github.com/nicholashuber) 
