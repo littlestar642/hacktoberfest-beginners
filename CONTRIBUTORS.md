@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+
+#### Name: [Tanay Shirodkar](https://github.com/iamtanay7)
+ - Place: Pune, Maharashtra, India
+ - Bio: C, C++, Python and Machine Learning Enthusiast.
+ - GitHub: [iamtanay7](https://github.com/iamtanay7)
