@@ -138,6 +138,11 @@
  - Bio: Working on Machine learning and computer vision
  - GitHub: [Jenimpatel](https://github.com/Jenimpatel)
 
+#### Name: [Kishan Singh](https://github.com/rkishan516)
+ - Place: Surat, Gujarat, India
+ - Bio: Android and Flutter Developer
+ - GitHub: [Rkishan516](https://github.com/rkishan516)
+=======
 #### Name: [Sourabh Varshney](https://github.com/sourabhvarshney111)
  - Place: Surat, Gujarat, India
  - Bio: Coder, Machine Learning Enthusiast
