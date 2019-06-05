@@ -1,3 +1,8 @@
+#### Name: [Shem Pereira](https://github.com/shempereira)
+ - Place: Mumbai, India
+ - Bio: fittness and health enthusiast 
+ - GitHub: [shempereira](https://github.com/shempereira) 
+
 #### Name: [Avinash Jaiswal](https://github.com/littlestar642)
  - Place: Surat, Gujarat, India
  - Bio: Traveller && Foodie && Web Developer === true
