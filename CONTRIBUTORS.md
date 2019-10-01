@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+ 
+ #### Name: [Ayesha Tahir](https://github.com/ayeshatahirme)
+ - Place: Faisalabad, Punjab, Pakistan
+ - Bio: Beginner, 3rd semester student, interested in web development and graphic designing
+ - GitHub: [ayeshatahirme](https://github.com/ayeshatahirme)
