@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+
+#### Name: [Sandeep Pradhan](https://github.com/Sandeep-Pradhan)
+ - Place: Bhubaneswar, Odisha, India
+ - Bio: Competitive Programmer, Web Developer
+ - GitHub: [Sandeep-Pradhan](https://github.com/Sandeep-Pradhan)
