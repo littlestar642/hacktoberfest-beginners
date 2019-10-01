@@ -147,3 +147,7 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+#### Name: [Harsha Vardhan Lakkireddy](https://github.com/Harshavardhan153)
+ - Place: Roorkee, Uttarakhand, India
+ - Bio: CS@IIT Roorkee
+ - GitHub: [Harshavardhan153](https://github.com/Harshavardhan153)
