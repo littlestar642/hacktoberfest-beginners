@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+
+#### Name: [Varnit Singh](https://github.com/varnitsingh)
+ - Place: Chandigarh, India
+ - Bio: System Architect
+ - GitHub: [Varnit Singh](https://github.com/varnitsingh)
