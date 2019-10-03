@@ -147,3 +147,9 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+
+#### Name: [Harsh Singh](https://github.com/harshsngh07)
+ - Place:  Chhattisgarh, India
+ - Bio: Currently a front-end developer learning nodejs and flutter.
+ - GitHub: [Harsh Singh](https://github.com/harshsngh07)
+
