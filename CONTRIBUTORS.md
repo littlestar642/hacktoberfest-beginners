@@ -1,3 +1,8 @@
+#### Name: [Mohak Goel](https://github.com/Mohak-Goel)
+ - Place: Bhubaneswar, Odisha, India
+ - Bio: Foodie, Music addict, Pro at procastination, Love Chess, Programming is Love
+ - GitHub: [Mohak-Goel](https://github.com/Mohak-Goel) 
+
 #### Name: [Avinash Jaiswal](https://github.com/littlestar642)
  - Place: Surat, Gujarat, India
  - Bio: Traveller && Foodie && Web Developer === true
