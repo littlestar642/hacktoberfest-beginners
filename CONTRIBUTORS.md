@@ -147,3 +147,9 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+
+#### Name: [Vatsala Narang](https://github.com/vatsalanarang)
+ - Place: Delhi, India
+ - Bio: CSE, Undergrad
+ - GitHub: [vatsalanarang](https://github.com/vatsalanarang)
+
