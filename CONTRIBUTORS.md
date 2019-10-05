@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+ 
+ #### Name: [Nikolay Fedotenko](https://github.com/kalkolay)
+ - Place: St. Petersburg, Russia
+ - Bio: C++ Developer
+ - GitHub: [kalkolay](https://github.com/kalkolay)
