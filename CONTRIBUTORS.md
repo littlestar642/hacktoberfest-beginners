@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+ 
+#### Name: [Kim Kinal](https://github.com/kimkinal)
+- Place: Pursat, Cambodia
+- Bio: Mechanical Engineering Student
+- GitHub: [kimkinal](https://github.com/kimkinal)
