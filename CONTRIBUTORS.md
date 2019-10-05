@@ -2,6 +2,11 @@
  - Place: Surat, Gujarat, India
  - Bio: Traveller && Foodie && Web Developer === true
  - GitHub: [littlestar642](https://github.com/littlestar642) 
+ 
+#### Name: [retro-node](https://github.com/retro-node)
+ - Place: Perth, Western Australia, Australia
+ - Bio: Student and nerd
+ - GitHub: [retro-node](https://github.com/retro-node) 
 
 #### Name: [Romy Werksma](https://github.com/flixie)
  - Place: Groningen, The Netherlands
