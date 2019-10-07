@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+ 
+ #### Name: [Giovanne Barbosa](https://github.com/g-barbosa)
+ - Place: São Paulo, Brazil
+ - Bio: Coder, Trying to be a React Developer
+ - GitHub: [g-barbosa](https://github.com/g-barbosa)
