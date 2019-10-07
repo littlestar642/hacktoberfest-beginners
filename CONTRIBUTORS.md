@@ -149,7 +149,7 @@
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
 
 #### Name [gaseceh](https://github.com/gaseceh)
- - Place: Baltimore, Maryland
+ - Place: Baltimore, Maryland, USA
  - Bio: Coder (Learning game code)
  - GitHub: [gaseceh](https://github.com/gaseceh)
 
