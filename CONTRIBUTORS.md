@@ -147,3 +147,7 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+ ### Nmae:[Jones Cyril](https://github.com/chocopiee)
+ -Place: Kottayam,Kerala,India
+ -Bio: Computer Science and Engineering
+ -Github: [chocopiee](https://github.com/chocopiee)
