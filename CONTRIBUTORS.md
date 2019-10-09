@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+
+#### Name: [Ayush Kumar ](https://github.com/ayush4190)
+ - Place: Surathkal, karnataka, India
+ - Bio: Android Developer , Web Devloper
+ - GitHub: [ayush4190](https://github.com/ayush4190) 
