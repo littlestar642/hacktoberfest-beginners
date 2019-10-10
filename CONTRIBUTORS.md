@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+ 
+ Name: [Tumo Kgosiyame](https://github.com/Tumo505)
+Place: Gaborone, Botswana
+Bio:web and android developer
+GitHub: [Tumo505](https://github.com/Tumo505)
