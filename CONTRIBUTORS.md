@@ -68,6 +68,12 @@
  - Bio: Software Engineer
  - GitHub: [nlsum1](https://github.com/nlsum1)
  
+ #### Name: [Kesego Mokgosi](https://github.com/Kesego23)
+ - Place: Botswana
+ - Bio: ML Engineer
+ - GitHub: [Kesego23](https://github.com/Kesego23)
+ 
+ 
 #### Name: [Sarsiz](https://github.com/sarsiz)
  - Place: Haryana, India
  - Bio: CSE, Undergrad
