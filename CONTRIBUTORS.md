@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+
+ #### Name: [Kavinda Senarathne](https://github.com/Kavinda-Senarathne)
+ - Place: Nedimala, Dehiwela, Sri Lanka
+ - Bio: Undergraduate
+ - GitHub: [Kavinda-Senarathne](https://github.com/Kavinda-Senarathne)
