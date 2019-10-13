@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+ 
+#### Name: [Niranjan Kumar](https://github.com/niranjantuty)
+ - Place: TN, India
+ - Bio: ML Enthusiast
+ - GitHub: [niranjantuty](https://github.com/niranjantuty)
