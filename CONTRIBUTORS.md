@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+
+#### Name: [Earl Harris](https://github.com/EchoJoker)
+ - Place: Tyler, Texas, United States
+ - Bio: Aspiring Programer, Cyber Operator
+ - GitHub: [EchoJoker](https://github.com/EchoJoker)
