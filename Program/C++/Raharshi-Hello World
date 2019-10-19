@@ -1,0 +1,11 @@
+// LANGUAGE: C++
+// AUTHOR: Rajarshi24
+// GITHUB: https://github.com/Rajarshi24
+
+#include <iostream>
+using std::cout;
+
+int main {
+  cout << "Hello World!\n";
+  return 0;
+}
