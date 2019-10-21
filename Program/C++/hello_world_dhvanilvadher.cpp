@@ -6,4 +6,5 @@
 using namespace std;
 int main(void){
 	if(cout<<"Hello World")
+	return 0;
 }
