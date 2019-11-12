@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+
+#### Name: [Swarnim Sonawane](https://github.com/lonetargaryen5)
+ - Place: Pune, Maharashtra, India
+ - Bio: I love coding and I'm interested in machine learning and artificial intelligence.
+ - GitHub: [lonetargaryen5](https://github.com/lonetargaryen5)
