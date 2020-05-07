@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+
+#### Name: [Kapil Sharma](https://github.com/kapilsharma432001)
+ - Place: Ghaziabad, Uttar Pradesh, India
+ - Bio: Interest in web development and machine learning
+ - GitHub: [kapilsharma432001](https://github.com/kapilsharma432001)
