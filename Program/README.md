@@ -10,3 +10,5 @@ Add a `hello_world_yourusername.xx` script to the scripts directory in any langu
 console.log('Hello, World!');
 ```
 Name the file `hello_world_yourusername.xx`. e.g., `hello_world_alicewonderland.js` or `hello_world_alicewonderland.py`.
+This is a Read Me Page
+
