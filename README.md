@@ -15,12 +15,15 @@ Please make one PR per issue. You can create different branches from the root an
 Hacktoberfest is a month-long celebration of open source software run by [DigitalOcean](https://www.digitalocean.com/products/droplets/) in partnership with GitHub and Twilio.
 
 * Hacktoberfest is open to everyone in our global community!
-* Five quality pull requests must be submitted to public GitHub repositories.
+* You don't require to acknowledge the knowledge of programming languages to be a part of this fest.
+* Four quality pull requests must be submitted to public GitHub repositories.
 * You can sign up anytime between October 1 and October 31.
 
 ## Simple to Register
 
 Ensure that you have a github profile. If not, make it asap.
+
+Use the [URL](https://github.com/) to create your github profile.
 
 Register [here](https://hacktoberfest.digitalocean.com/). Submit a PR to any public GitHub repository. Quality contributions are encouraged! You can look for [open issues labeled "Hacktoberfest"](https://github.com/search?p=2&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue&type=Issues) for inspiration.
 
@@ -34,7 +37,7 @@ This project is mainly divided into five tasks that you need to do and will help
 4. Write a `hello World` script in your favourite language and add it to the `Program` directory. Choose the language directory that you have used and make a new one if it's not already available.
 5. Add your code to a common webpage that shows all the contributors and their profiles.
 
-Choose one or all 5, make a pull request for your work and wait for it to be merged!
+Choose one or all 4, make a pull request for your work and wait for it to be merged!
 
 ## Getting Started
 
