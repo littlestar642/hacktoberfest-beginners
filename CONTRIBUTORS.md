@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+
+#### Name: [Deepti Sharma](https://github.com/dsdeeptisharma)
+ - Place: Ottawa, Ontario, Canada
+ - Bio: Coder,Teaching Assistant
+ - GitHub: [dsdeeptisharma](https://github.com/dsdeeptisharma)
