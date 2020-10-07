@@ -118,6 +118,11 @@
  - Bio: Emerging as a Machine Learning Developer and a regular Competitive Coder.
  - GitHub: [rajshah9914](https://github.com/rajshah9914)
 
+#### Name: [Satvik](https://github.com/kspcode)
+ - Place: Bangalore, Karnataka, India
+ - Bio: Aspiring web developer
+ - GitHub: [kspcodes](https://github.com/kspcode)
+
 #### Name: [Shravankumar Shetty](https://github.com/shravankumar9892)
  - Place: Surat, Gujarat, India
  - Bio: Cricketer && Entrepreneur enthusiast && ML developer === true
