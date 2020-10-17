@@ -16,6 +16,7 @@
 ### Projects
 
 [Code-Chef](https://github.com/shubhiroy/Code-Chef) -> This is a repo created by me in which i try to put all the problems solved by me on code chef platform.
+Anybody is welcomed to contribute to it.
 
 ### Profile Link
 
