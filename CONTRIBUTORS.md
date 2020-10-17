@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+ 
+ #### Name: [Krishnaprasad Nayani](https://github.com/Cyb3rM3rlin)
+ - Place: Hyderabad, Telangana, India
+ - Bio: Coder, Android Developer, Ethical Hacker
+ - GitHub: [Cyb3rM3rlin](https://github.com/Cyb3rM3rlin)
