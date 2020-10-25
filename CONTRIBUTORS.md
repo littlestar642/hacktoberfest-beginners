@@ -147,3 +147,9 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+
+ 
+#### Name: [Deus Diasaleftis](https://github.com/deusdiasaleftis)
+ - Place: Athens, Greece
+ - Bio: C Developer
+ - GitHub: [deusdiasaleftis](https://github.com/deusdiasaleftis)
