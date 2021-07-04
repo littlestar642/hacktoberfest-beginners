@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+
+#### Name: [Rushi Bhatt](https://github.com/RushiBhatt007)
+ - Place: Surat, Gujarat, India
+ - Bio: IoT enthusiast
+ - GitHub: [RushiBhatt007](https://github.com/RushiBhatt007)
