@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+
+ #### Name: [Rohit Agarwal](https://github.com/agarwalr98)
+ - place: Jaipur , Rajasthan , India 
+ - CSE student at IIT Mandi 
+ - GitHub: [agarwalr98](https://github.com/agarwalr98) 
