@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+
+#### Name: [Dillon Maks](https://github.com/MaksimumYT)
+ - Place: College Station, Texas, United States
+ - Bio: Full-Stack Web Developer
+ - GitHub: [MaksimumYT](https://github.com/MaksimumYT)
