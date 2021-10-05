@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+
+#### Name: [Mohit Deshwal](https://github.com/mohit01-beep)
+ - Place: Shahdara, Delhi, India
+ - Bio: Coder, Web Developer
+ - GitHub: [mohit01-beep](https://github.com/mohit01-beep)
