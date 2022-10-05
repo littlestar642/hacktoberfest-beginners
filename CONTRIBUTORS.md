@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+
+#### Name: [Atherv patil](https://github.com/ColonelAVP)
+ - Place: Navi Mumbai, Maharashtra, India 
+ - Bio: Coder, Django Developer, Footballer
+ - GitHub: [ColonelAVP](https://github.com/ColonelAVP)
