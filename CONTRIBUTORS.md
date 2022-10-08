@@ -128,6 +128,11 @@
   - Bio: Footballer and wanna be a competitive coder
   - GitHub: [nikhilkrgautam](https://github.com/nikhilkrgautan)
 
+#### Name: [Vishwa K](https://github.com/Vishwa-docs)
+  - Place: Surat, Gujarat, India
+  - Bio: OSS Dev
+  - GitHub: [vishwa-docs](https://github.com/Vishwa-docs)
+
 #### Name: [Gourav Somani](https://github.com/gouravsomani)
  - Place: Surat, Gujarat, India
  - Bio: Frontend web developer
