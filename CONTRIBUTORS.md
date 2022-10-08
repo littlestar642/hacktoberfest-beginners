@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+
+#### Name: [Aarav Shuklz](https://github.com/Aarav238)
+ - Place: Surat, Gujarat, India
+ - Bio: CSE Student,Front-End Web Developor,Open Source Enthusiast
+ - GitHub: [Aarav238](https://github.com/Aarav238) 
