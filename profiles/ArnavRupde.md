@@ -2,8 +2,8 @@
  ### Location
  Surat, India.
  ### Academics
- IIIT SURAT
- ### Interests
+IIIT SURAT
+### Interests
  - Love to do machine learning, web development and competitive programming.
  ### Development
  - Android
