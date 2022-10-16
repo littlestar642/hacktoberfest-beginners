@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+
+#### Name: [Aditya Mishra](http://github.com/Aditya5052)
+ - Place: Gurgaon, Haryana, India
+ - Bio: AI/ML/DL
+ - GitHub: [Aditya5052](http://github.com/Aditya5052) 
