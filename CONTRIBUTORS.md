@@ -147,3 +147,9 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+
+#### Name: [Tim Goldbach](https://github.com/TimGoldbach)
+ - Place: North-Rhine-Westphalia, Germany
+ - Bio: Coder, Shopware Developer
+ - GitHub: [TimGoldbach](https://github.com/TimGoldbach)
+
