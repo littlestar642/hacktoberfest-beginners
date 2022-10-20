@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+
+#### Name: [Hannah Wang](https://github.com/hqnnahwang)
+ - Place: Seattle, Washington, US
+ - Bio: Student
+ - GitHub: [hqnnahwang](https://github.com/hqnnahwang)
