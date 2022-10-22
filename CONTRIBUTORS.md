@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+
+#### Name: [Harsh Aggarwal](https://github.com/HarshAggarwal1)
+ - Place: New Delhi, India
+ - Bio: Basketball and Badminton player, Music Lover
+ - GitHub: [HarshAggarwal1](https://github.com/HarshAggarwal1)
