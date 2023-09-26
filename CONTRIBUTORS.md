@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+
+#### Name: [Pralin Khaita](https://github.com/pralinkhaira)
+ - Place: Jammu, Jammu & Kashmir, India
+ - Bio: Coder, Android Developer, Ethical Hacker, Guitarist
+ - GitHub: [Pralin Khaira](https://github.com/pralinkhaira)
