@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+
+ #### Name: [Abhishek Singh](https://github.com/abhishek-singh0710)
+ - Place: Jabalpur, Madhya Pradesh, India
+ - Bio: Coder, Frontend Developer
+ - GitHub: [abhishek-singh0710](https://github.com/abhishek-singh0710)
