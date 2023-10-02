@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+
+#### Name: [Adam Růžička](https://github.com/666hellmaster)
+ - Place: Prague, Czech Republic
+ - Bio: becoming a backend developer
+ - GitHub: [666hellmaster](https://github.com/666hellmaster)
