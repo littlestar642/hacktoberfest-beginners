@@ -58,10 +58,9 @@ Choose one or all 5, make a pull request for your work and wait for it to be mer
 
 ## Prizes and Goodies
 
-Hacktoberfest comes with great prizes and goodies that you can show off to your friends and peers. Prizes include
- * Limited Edition Hacktoberfest T-Shirt
- * Stickers for your laptops
- 
+This year Hacktoberfest is not providing a T-Shirt. Instead, a unique digital reward will be given. Also, first 50,000 contributors will get a tree planted on their behalf!
+[Learn More](https://hacktoberfest.com/about/#digital-rewards)
+<br> 
 For more details do read official [faq's](https://hacktoberfest.digitalocean.com/faq) to clear all your doubts regarding hacktoberfest.
 
 ## Choose from these Tasks :-
