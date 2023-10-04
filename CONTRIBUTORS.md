@@ -1,3 +1,8 @@
+#### Name: [Manav Sharma](https://github.com/octomaanav)
+ - Place: Buffalo, NY, USA
+ - Bio: Computer Science Major| Aspiring Data Scientist
+ - GitHub: [octomaanav](https://github.com/octomaanav)
+
 #### Name: [Avinash Jaiswal](https://github.com/littlestar642)
  - Place: Surat, Gujarat, India
  - Bio: Traveller && Foodie && Web Developer === true
