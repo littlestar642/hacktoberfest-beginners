@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+
+ #### Name: [Nirmal Saravgi](https://github.com/Nirmalsaravgi)
+ - Place: Mumbai, Maharashtra, India
+ - Bio: Coder, Machine Learning Enthusiast
+ - GitHub: [Nirmalsaravgi](https://github.com/Nirmalsaravgi)
