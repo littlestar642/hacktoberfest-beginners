@@ -1,3 +1,8 @@
+#### Name: [Abhinav Arya](https://github.com/Abhinavarya7)
+ - Place: Mandi, Himachal Pradesh, India
+ - Bio: BioEngineer with interest in AI and computer science
+ - GitHub: [Abhinavarya7](https://github.com/Abhinavarya7) 
+
 #### Name: [Avinash Jaiswal](https://github.com/littlestar642)
  - Place: Surat, Gujarat, India
  - Bio: Traveller && Foodie && Web Developer === true
