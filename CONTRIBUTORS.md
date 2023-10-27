@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+
+   #### Name: [Bindu Madhavi V](https://github.com/bindu-1805)
+ - Place: Bengaluru, Karnataka, India
+ - Bio: Frontend web developer
+ - GitHub: [bindu-1805](https://github.com/bindu-1805)
